@@ -717,7 +717,7 @@ section {
 .card section.info .rsvp .container-message .content p.name::after {
     content: '--';
     color: grey;
-    font-size: 16px;
+    font-size: 20px;
     margin-left: 8px;
 }
 
