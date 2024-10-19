@@ -72,9 +72,9 @@ body {
     background-color: white;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    font-size: 24px;
+    width: 250px;
+    height: 250px;
+    font-size: 27px;
     cursor: pointer;
     border: none;
 }
@@ -170,7 +170,7 @@ body {
     z-index: 0;
     width: 100%;
     /* Full width within the card */
-    height: 60%;
+    height: 30%;
     /* Full height within the card */
     top: 0;
     left: 0;
@@ -229,7 +229,7 @@ section {
 .card section.intro {
   background: url(../images/intro2-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
      background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 300px 100px;
     background-position: center;
     min-height: 10vh;
     background-repeat: no-repeat;
