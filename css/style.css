@@ -88,10 +88,10 @@ body {
     color: #302b63;
 }
 
-.overlay .overlay-content .toggle-button .buka {
-    font-size: 16px;
+.overlay .overlay-content .toggle-button .button {
+    font-size: 20px;
     font-family: 300;
-    font-family: "Bebas Neue", Arial, sans-serif;
+    font-family: "Bebas Neue", Times New Roman, sans-serif;
     margin-top: 10px;
 }
 
