@@ -297,7 +297,7 @@ section {
     min-height: 100vh;
 }
 
-.card section.info .assalamualaikum {
+.card section.info .set {
     width: 80%;
     height: 30%;
     object-fit: cover;
@@ -643,7 +643,7 @@ section {
 }
 
 .card section.info .ucapan .content p {
-    font-size: 16px;
+    font-size: 12px;
     font-family: 'Cormorant Garamond', serif;
     margin: 0;
     text-align: center;
