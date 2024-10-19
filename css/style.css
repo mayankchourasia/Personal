@@ -227,14 +227,13 @@ section {
     # Intro
 ============================================================================================*/
 .card section.intro {
-  /*  background: url(../images/ucapan-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
+  background: url(../images/intro2-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
     background-repeat: no-repeat;
-    background-size: cover;
+    background-height : 70%;
     background-position: center;
-    min-height: 10vh;
     z-index: 200;
     border-bottom: 1px solid rgb(195, 195, 195);
-} */
+} 
 
 .card section.intro .content {
    
@@ -650,7 +649,7 @@ section {
 
 .card section.info .ucapan img {
     width: 100%;
-    height: auto;
+    height: 70%;
 }
 
 
