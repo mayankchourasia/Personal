@@ -228,6 +228,10 @@ section {
 ============================================================================================*/
 .card section.intro {
   background: url(../images/intro2-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 10vh;
     background-repeat: no-repeat;
     z-index: 500;
     border-bottom: 0.6px solid rgb(195, 195, 195);
