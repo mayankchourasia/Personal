@@ -227,9 +227,8 @@ section {
     # Intro
 ============================================================================================*/
 .card section.intro {
-  background: url(../images/intro2-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
+  background: url(../images/intro-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF); 
     background-repeat: no-repeat;
-    background-height : 70%;
     background-position: center;
     z-index: 200;
     border-bottom: 1px solid rgb(195, 195, 195);
