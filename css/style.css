@@ -238,18 +238,18 @@ section {
 
 .card section.intro .content {
     display: block;
-    padding: 200px 0px;
+    padding: 150px 0px;
     text-align: center;
 }
 
 .card section.intro .content img {
-    width: 50%;
-    height: 10%;
+    width: 70%;
+    height: 20%;
 }
 
 .card section.intro .content p {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 05px;
+    margin-bottom: 10px;
 }
 
 .card section.intro .content p.title {
