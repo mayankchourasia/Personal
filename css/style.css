@@ -232,7 +232,7 @@ section {
     background-size: cover;
     background-position: center;
     min-height: 80vh;
-    z-index: 500;
+    z-index: 300;
     border-bottom: 1px solid rgb(195, 195, 195);
 }
 
