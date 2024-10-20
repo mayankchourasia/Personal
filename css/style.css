@@ -285,6 +285,15 @@ section {
 /*============================================================================================
     # Event Info
 ============================================================================================*/
+.card section.heading {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #111111;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
 .card section.info {
     display: flex;
     flex-direction: column;
@@ -296,7 +305,7 @@ section {
     min-height: 100vh;
 }
 
-.card section.info .assalamualaikum {
+.card section.info .set {
     width: 80%;
     height: 30%;
     object-fit: cover;
