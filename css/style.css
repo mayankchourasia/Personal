@@ -247,6 +247,7 @@ section {
     width: 80%;
     height: 30%;
     object-fit: cover;
+    text-align: center;
     position: relative;
     z-index: 500;
 }
