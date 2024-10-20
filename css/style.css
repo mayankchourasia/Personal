@@ -296,13 +296,15 @@ section {
     min-height: 100vh;
 }
 
-.card section.info .set {
+.card section.info .assalamualaikum {
     width: 80%;
     height: 30%;
     object-fit: cover;
     position: relative;
     z-index: 500;
 }
+
+
 
 .card section.info .event-info {
     width: 75%;
