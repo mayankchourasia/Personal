@@ -244,11 +244,11 @@ section {
 ============================================================================================*/
 
 .card section.info .set {
-    width: 80%;
-    height: 30%;
+   width: 50%;
+    height: 10%;
     object-fit: cover;
     text-align: center;
-    position: relative;
+    position: center;
     z-index: 500;
 }
 
