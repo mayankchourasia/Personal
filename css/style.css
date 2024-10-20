@@ -226,31 +226,7 @@ section {
 /*============================================================================================
     # Intro
 ============================================================================================*/
-.card section.intro {
-    background: url(../images/intro2-bg.png), linear-gradient(to right, #F8F4FF, #f9fcff, #F8F4FF);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    min-height: 100vh;
-    z-index: 500;
-    border-bottom: 1px solid rgb(195, 195, 195);
-}
 
-.card section.intro .content {
-    display: block;
-    padding: 200px 0px;
-    text-align: center;
-}
-
-.card section.intro .content img {
-    width: 50%;
-    height: 10%;
-}
-
-.card section.intro .content p {
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
 
 .card section.intro .content p.title {
     margin-top: 30px;
@@ -261,22 +237,6 @@ section {
     font-weight: 700;
     font-family: "Roboto", sans-serif;
     letter-spacing: 1px;
-}
-
-.card section.intro .content h2 {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-family: "Allura", cursive;
-    font-size: 48px;
-    font-weight: 500;
-    color: #111111;
-}
-
-.card section.intro .content .date {
-    color: #111111;
-    font-family: "Roboto", sans-serif;
-    letter-spacing: 1px;
-    font-size: 16px;
 }
 
 
