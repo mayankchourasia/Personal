@@ -229,14 +229,11 @@ section {
 
 
 .card section.intro .content p.title {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    color: #111111;
-    text-transform: uppercase;
+    text-align: center;
+    position: relative;
     font-size: 16px;
     font-weight: 700;
     font-family: "Roboto", sans-serif;
-    letter-spacing: 1px;
 }
 
 
