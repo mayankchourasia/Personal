@@ -84,14 +84,14 @@ body {
     padding: 0;
     font-size: 30px;
     font-weight: 500;
-    font-family: "Roboto", cursive;
+    font-family: "Allura", cursive;;
     color: #302b63;
 }
 
 .overlay .overlay-content .toggle-button .buka {
     font-size: 16px;
     font-family: 300;
-    font-family: "Roboto", cursive;
+    font-family: "Allura", cursive;;
     margin-top: 10px;
 }
 
