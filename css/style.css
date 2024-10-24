@@ -91,7 +91,7 @@ body {
 .overlay .overlay-content .toggle-button .buka {
     font-size: 16px;
     font-family: 300;
-    font-family: "Roboto", Arial, sans-serif;
+    font-family: "Roboto", cursive;
     margin-top: 10px;
 }
 
@@ -423,7 +423,7 @@ section {
 }
 
 .card section.info .ucapan .content p {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Cormorant Garamond', serif;
     margin: 0;
     text-align: center;
